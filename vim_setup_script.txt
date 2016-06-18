@@ -1,5 +1,5 @@
 
-mv ~/VimSetup/vimrc.txt .vimrc
+mv ~/VimSetup/vimrc.txt ~/VimSetup/.vimrc
 mv ~/.vimrc ~/vimrc_bk3.txt
 mv ~/VimSetup/.vimrc ~/.vimrc
 
