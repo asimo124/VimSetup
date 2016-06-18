@@ -1,7 +1,7 @@
 syntax on
 set t_Co=256
 set autoindent
-colorscheme elflord
+" colorscheme elflord
 set shiftwidth=4
 set tabstop=4
 set softtabstop=4
