@@ -1,4 +1,7 @@
 
+mv ~/VimSetup/vimrc.txt .vimrc
+mv ~/.vimrc ~/vimrc_bk3.txt
+mv ~/VimSetup/.vimrc ~/.vimrc
 
 mkdir -p ~/.vim/autoload ~/.vim/bundle && \
 curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
