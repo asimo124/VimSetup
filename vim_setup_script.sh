@@ -21,4 +21,8 @@ git clone https://github.com/ivalkeen/vim-ctrlp-tjump.git
 mv vim-ctrlp-tjump ~/.vim/bundle
 
 
+cd ~/.vim/bundle
+git clone https://github.com/scrooloose/nerdtree.git
 
+cd ~/.vim/bundle
+git clone https://github.com/jistr/vim-nerdtree-tabs.git
