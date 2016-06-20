@@ -10,6 +10,10 @@ let g:ctrlp_prompt_mappings = {
     \ 'AcceptSelection("t")': ['<cr>', '<2-LeftMouse>'],
     \ }
 
+map <silent> <C-n> :NERDTreeToggle<CR> 
+
+let g:NERDTreeMapOpenInTab='<Enter>'
+
 syntax on
 set t_Co=256
 set autoindent
